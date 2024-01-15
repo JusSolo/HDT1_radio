@@ -15,6 +15,9 @@ public interface Radio {
 
         public void guardarEmisora(int i, float frec);
         public void seleccionarEmisora(int i);
+        public float getEmisora();
+        public int getVolumen();
+        public int getBanda();
 
 
 }

@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03a532a9-d606-4954-9724-9a1f57288a46" name="Changes" comment="Creacion del proyecto">
-      <change afterPath="$PROJECT_DIR$/test/MiRadioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hdt1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hdt1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MiRadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiRadio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Radio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tablero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tablero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,35 +39,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Tablero.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.MiRadioTest.testGetBanda.executor": "Run",
-    "JUnit.MiRadioTest.testGuardarEmisora.executor": "Run",
-    "JUnit.MiRadioTest.testSubirEmisoraAM.executor": "Run",
-    "JUnit.MiRadioTest.testSubirEmisoraApagada.executor": "Run",
-    "JUnit.MiRadioTest.testSubirEmisoraFM.executor": "Run",
-    "OverrideImplement.generate.javadoc": "true",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/home/juan/Documentos/education/U/Semestres/Semestre_9/Algoritmos y Estructura/Tareas/HDT/hdt1/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Tablero.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.MiRadioTest.testGetBanda.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MiRadioTest.testGuardarEmisora.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MiRadioTest.testSubirEmisoraAM.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MiRadioTest.testSubirEmisoraApagada.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MiRadioTest.testSubirEmisoraFM.executor&quot;: &quot;Run&quot;,
+    &quot;OverrideImplement.generate.javadoc&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/juan/Documentos/education/U/Semestres/Semestre_9/Algoritmos y Estructura/Tareas/HDT/hdt1/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -80,22 +76,19 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MiRadioTest.testGetBanda">
+  <component name="RunManager" selected="Application.Tablero">
+    <configuration name="Tablero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tablero" />
+      <module name="hdt1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MiRadioTest.testGetBanda" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hdt1" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MiRadioTest" />
       <option name="METHOD_NAME" value="testGetBanda" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MiRadioTest.testGuardarEmisora" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="hdt1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MiRadioTest" />
-      <option name="METHOD_NAME" value="testGuardarEmisora" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,20 +126,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tablero" />
         <item itemvalue="JUnit.MiRadioTest.testGetBanda" />
         <item itemvalue="JUnit.MiRadioTest.testSubirEmisoraApagada" />
         <item itemvalue="JUnit.MiRadioTest.testSubirEmisoraAM" />
         <item itemvalue="JUnit.MiRadioTest.testSubirEmisoraFM" />
-        <item itemvalue="JUnit.MiRadioTest.testGuardarEmisora" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-76dd8dae" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -160,6 +146,7 @@
       <workItem from="1705079576257" duration="1901000" />
       <workItem from="1705081637720" duration="762000" />
       <workItem from="1705337729484" duration="5489000" />
+      <workItem from="1705589474169" duration="171000" />
     </task>
     <task id="LOCAL-00001" summary="Creacion del proyecto">
       <option name="closed" value="true" />

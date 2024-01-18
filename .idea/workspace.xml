@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03a532a9-d606-4954-9724-9a1f57288a46" name="Changes" comment="Creacion del proyecto">
-      <change beforePath="$PROJECT_DIR$/src/Tablero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tablero.java" afterDir="false" />
-    </list>
+    <list default="true" id="03a532a9-d606-4954-9724-9a1f57288a46" name="Changes" comment="Tablero commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +28,20 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Charly2440"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="817104af-afd3-4d6c-91eb-8bef8de794ff" />
+        <option name="url" value="https://github.com/JusSolo/HDT1_radio.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -39,35 +51,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Tablero.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;JUnit.MiRadioTest.testGetBanda.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MiRadioTest.testGuardarEmisora.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MiRadioTest.testSubirEmisoraAM.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MiRadioTest.testSubirEmisoraApagada.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MiRadioTest.testSubirEmisoraFM.executor&quot;: &quot;Run&quot;,
-    &quot;OverrideImplement.generate.javadoc&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/juan/Documentos/education/U/Semestres/Semestre_9/Algoritmos y Estructura/Tareas/HDT/hdt1/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Tablero.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.MiRadioTest.testGetBanda.executor": "Run",
+    "JUnit.MiRadioTest.testGuardarEmisora.executor": "Run",
+    "JUnit.MiRadioTest.testSubirEmisoraAM.executor": "Run",
+    "JUnit.MiRadioTest.testSubirEmisoraApagada.executor": "Run",
+    "JUnit.MiRadioTest.testSubirEmisoraFM.executor": "Run",
+    "OverrideImplement.generate.javadoc": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/juan/Documentos/education/U/Semestres/Semestre_9/Algoritmos y Estructura/Tareas/HDT/hdt1/src/Main.java",
+    "settings.editor.selected.configurable": "configurable.group.tools",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -134,6 +146,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -146,7 +165,7 @@
       <workItem from="1705079576257" duration="1901000" />
       <workItem from="1705081637720" duration="762000" />
       <workItem from="1705337729484" duration="5489000" />
-      <workItem from="1705589474169" duration="171000" />
+      <workItem from="1705589474169" duration="1053000" />
     </task>
     <task id="LOCAL-00001" summary="Creacion del proyecto">
       <option name="closed" value="true" />
@@ -164,7 +183,31 @@
       <option name="project" value="LOCAL" />
       <updated>1705080736346</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tablero commit">
+      <option name="closed" value="true" />
+      <created>1705589863228</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705589863228</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Tablero commit">
+      <option name="closed" value="true" />
+      <created>1705589884365</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705589884365</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Tablero commit">
+      <option name="closed" value="true" />
+      <created>1705589940790</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705589940790</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +226,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creacion del proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creacion del proyecto" />
+    <MESSAGE value="Tablero commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tablero commit" />
   </component>
 </project>

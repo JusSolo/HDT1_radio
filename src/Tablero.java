@@ -24,6 +24,7 @@ public class Tablero {
                 switch(opc) {
                     case 1: //encender radio
                         radio.encender();
+                        System.out.println("Radio encendida");
                         break;
 
                     case 2: //Apaga la radio, saca del tablero

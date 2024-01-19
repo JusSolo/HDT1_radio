@@ -7,8 +7,23 @@ public class Tablero {
         int opc =0;
         try{
             do {
+                String banda = "AM";
+                if (radio.getBanda()==0){
+                    banda = "AM";
+                }
+                else {
+                    banda = "FM";
+                }
                 System.out.println( "**************************************************\n"
-                        + "*                    Radio                        *\n"
+                        + "*                    Radio Encendido             *\n"
+                        + "**************************************************\n"
+                        + "* 1.  Volumen                               " + banda + " *\n"
+                        + "* 2.  Banda                               " + radio.getBanda() + " *\n"
+                        + "* 3.  Emisora                            " + radio.getEmisora() + " *\n"
+                        + "**************************************************\n");
+
+                System.out.println( "**************************************************\n"
+                        + "*                    Radio Opciones               *\n"
                         + "**************************************************\n"
                         + "* 1.  encender radio                             *\n"
                         + "* 2.  apagar radio                               *\n"
@@ -41,9 +56,14 @@ public class Tablero {
 
                     case 4: //cambiar banda
                         System.out.println("Elija una banda AM=0, FM=1");
-                        int banda = Integer.parseInt(getNumber(in));
-                        radio.cambiarBanda(banda);
-                        System.out.println("Estás escuchando " + radio.getBanda());
+                        int banda2 = Integer.parseInt(getNumber(in));
+                        radio.cambiarBanda(banda2);
+                        if (banda2==1){
+                            System.out.println("Estás escuchando FM");
+                        }
+                        else {
+                            System.out.println("Estás escuchando AM");
+                        }
                         break;
 
                     case 5: //Subir emisora

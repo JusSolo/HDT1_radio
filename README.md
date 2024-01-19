@@ -1,5 +1,5 @@
 Autores:
-Juan Luis Solorzano, carné #201598 \n
+Juan Luis Solorzano, carné #201598
 Carlos Villagrán, carné #22264
 
 Descripción del repositorio:
